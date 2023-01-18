@@ -1,20 +1,20 @@
-# esx_license
+<h1 align='center'>[ESX] License</a></h1><p align='center'><b><a href='https://discord.esx-framework.org/'>Discord</a> - <a href='https://documentation.esx-framework.org/legacy/installation'>Documentation</a></b></h5>
 
 ## Download & Installation
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/esx_license
+fvm install --save --folder=esx esx-framework/esx_license
 ```
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_license [esx]/esx_license
+git clone https://github.com/esx-framework/esx_license [esx]/esx_license
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_license/archive/master.zip
+- Download https://github.com/esx-framework/esx_license/archive/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
