@@ -83,6 +83,7 @@ local function isValidLicense(licenseType)
 	return flag
 end
 
+RegisterNetEvent('esx_license:addLicense')
 AddEventHandler('esx_license:addLicense', function(target, licenseType, cb)
 	local xPlayer = ESX.GetPlayerFromId(target)
 	if xPlayer then
