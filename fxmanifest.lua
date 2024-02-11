@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX License'
+description 'Handles for logic for player licenses, such as: Driving License, gun license and more'
 lua54 'yes'
 version '1.0'
 legacyversion '1.9.1'
